@@ -31,4 +31,4 @@ df["group"] = tab
 
 print(df)
 
-df.to_csv("data/rmsoffensecodes.csv", index=False, encoding="utf_8")
+df.to_csv("data/rmsoffensecodes_group.csv", index=False, encoding="utf_8")
