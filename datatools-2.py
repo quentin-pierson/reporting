@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from sklearn.cluster import DBSCAN
 from math import *
 
-FILENAME = 'crime_boston.csv'
+FILENAME = 'data/crime_boston.csv'
 DELIMITER = ';'
 ENCODING = 'utf-8'
 FILTERED_HEADERS = ['col', 'atm']
